@@ -1,10 +1,3 @@
-# ISEE 2027 参会邀请函模板
-
-面向 ISEE 各区域分会会长的群发邀请函（英文）。每封仅需替换 `{{LastName}}`；联系方式每封相同。
-
----
-
-## 正文模板（直接复制）
 
 **Subject:** Invitation to the 19th ISEE Biennial Conference — Beijing, May 2027
 
@@ -26,20 +19,3 @@ Xi Ji
 Professor, School of Economics, Peking University
 Director, Center for Human and Economic Development Studies (CHEDS)
 Host, 19th ISEE Biennial Conference
-{{Email}} · {{Phone}}
-
----
-
-## 填写说明（不进正文）
-
-- `{{LastName}}` → 收件人姓氏
-- `{{Email}}` / `{{Phone}}` → 你的联系方式（每封相同）
-
-## 核对记录
-
-- **会议**：国际生态经济学会第十九届大会 / 19th Conference of the International Society for Ecological Economics
-- **时间地点**：2027年5月5日–9日，北京
-- **主办**：北京大学经济学院；合办：中国生态经济学学会、ISEE
-- **奖项名称已核实**：Kenneth E. Boulding Memorial Award（终身成就）；Bina Agarwal Prize for Young Scholars（青年学者，以 Bina Agarwal 命名，非 Anil Agarwal）。故正文用中性的 "the Society's principal awards"，未称"最高荣誉"。
-- **中心英文名**：Center for Human and Economic Development Studies (CHEDS), Peking University（官方缩写，域名 cheds.pku.edu.cn）
-- **收件人身份**：ISEE 无 "Regional Chair" 头衔；对应的是各区域分会会长（President of Regional Societies）。按用户要求，信中不点明对方身份，仅作邀请。
